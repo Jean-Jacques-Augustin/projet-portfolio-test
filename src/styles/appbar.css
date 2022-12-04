@@ -1,0 +1,12 @@
+.navigation {
+    height: 8vh;
+    overflow: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    text-transform: none;
+    color: inherit;
+    margin: auto 1vh;
+}
